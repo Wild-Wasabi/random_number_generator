@@ -1,8 +1,5 @@
 import random
-#5/19/2024
-#Beginner: Create a random equation that equates to the user's number | COMPLETE
-#Medium: Run until "quit" of any casing is typed | COMPLETE
-#Advanced: Allow user to run normally or choose the operator and how many times to run | COMPLETE
+
 user_preference = ""
 iterationCount = 0
 operatorQuestioning = True
